@@ -69,6 +69,6 @@ export default {
   flex-wrap: wrap;
 }
 .width {
-  max-width: 19vh;
+  max-width: 17vh;
 }
   </style>
